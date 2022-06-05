@@ -1,3 +1,10 @@
 body {
-    background: blue;
+    background: grey;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    background-image: https://www.hdcarwallpapers.com/download/dodge_challenger_srt_demon_4k-2560x1440.jpg;
 }
